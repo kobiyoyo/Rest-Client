@@ -6,3 +6,4 @@ A simple HTTP and REST client for Ruby,specifying actions such as  get, put, pos
 
 ## Author
 [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)
+[Danilo Zagarcanin ](https://github.com/danilozag1992)
