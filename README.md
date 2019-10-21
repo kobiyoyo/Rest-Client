@@ -2,7 +2,7 @@
 A simple HTTP and REST client for Ruby,specifying actions such as  get, put, post, delete.
 
 ## Technology Used
--Ruby
+- Ruby
 - Rest-client [See Main page](https://github.com/rest-client/rest-client)
 
 ## Author
